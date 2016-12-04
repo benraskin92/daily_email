@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Update Preferences</title>
+
+
+</head>
+<body>
+
+    <form method="post">
+      Update Preferences for
+        {% for i in user %}
+        {{ i.email_address }}
+        {% endfor %}
+        <br>
+        <br>
+      Update Email Address: <input type="text" name="email"><br>
+      Weather: <select name="weather">
+          <option value="true">True</option>
+          <option value="false">False</option>
+      </select>
+        <br>
+        NY Times: <select name="ny_times">
+          <option value="true">True</option>
+          <option value="false">False</option>
+      </select>
+        <br>
+        <br>
+      <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+Hello Ben:
+
+Weather for today:
+
+2016-12-04 12:00:00 > 42.57 degrees > Clear with no precipitation (0% chance).
+2016-12-04 13:00:00 > 43.73 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-12-04 14:00:00 > 44.61 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-12-04 15:00:00 > 44.85 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-12-04 16:00:00 > 44.91 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-12-04 17:00:00 > 43.73 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-12-04 18:00:00 > 41.52 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-12-04 19:00:00 > 40.51 degrees > Mostly Cloudy with no precipitation (0% chance).
+2016-12-04 20:00:00 > 39.7 degrees > Mostly Cloudy with no precipitation (0% chance).
+2016-12-04 21:00:00 > 39.36 degrees > Mostly Cloudy with no precipitation (0% chance).
+2016-12-04 22:00:00 > 39.21 degrees > Overcast with no precipitation (0% chance).
+2016-12-04 23:00:00 > 39.3 degrees > Overcast with no precipitation (0% chance).
+

@@ -1,0 +1,42 @@
+Hello Ben:
+
+Weather for today:
+
+2016-11-05 10:00:00 > 48.82 degrees > Clear with no precipitation (0% chance).
+2016-11-05 11:00:00 > 52.43 degrees > Clear with no precipitation (0% chance).
+2016-11-05 12:00:00 > 54.95 degrees > Clear with no precipitation (0% chance).
+2016-11-05 13:00:00 > 57.82 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-11-05 14:00:00 > 60.68 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-11-05 15:00:00 > 64.03 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-11-05 16:00:00 > 64.82 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-11-05 17:00:00 > 63.62 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-11-05 18:00:00 > 60.65 degrees > Partly Cloudy with no precipitation (0% chance).
+2016-11-05 19:00:00 > 59.08 degrees > Clear with no precipitation (0% chance).
+2016-11-05 20:00:00 > 57.47 degrees > Clear with no precipitation (0% chance).
+2016-11-05 21:00:00 > 56.46 degrees > Clear with no precipitation (0% chance).
+
+NY Times articles:
+
+title: The Closer: Michelle Obama
+abstract: Dismissed early on by critics, the first lady has evolved into a powerful presence on the campaign trail.
+url: http://www.nytimes.com/2016/11/06/us/politics/michelle-obama-2016-presidential-election-first-lady.html
+
+title: How to Satirize This Election? Even the Onion Is Having Trouble
+abstract: The 2016 presidential campaign, with its unsavory issues and unpopular candidates, has proved challenging to the staff of the satirical website The Onion.
+url: http://www.nytimes.com/2016/11/05/business/media/how-to-satirize-this-election-even-the-onion-is-having-trouble.html
+
+title: Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation
+abstract: In the final days of the race, Mr. Trump has been a lonely figure on the campaign trail, as most prominent Republicans have kept their distance.
+url: http://www.nytimes.com/2016/11/05/us/politics/campaign-trump-clinton.html
+
+title: A Militia Gets Battle Ready for a ‘Gun-Grabbing’ Clinton Presidency
+abstract: At a militia training camp in Georgia it was clear that no issue motivates members more than guns — and the enduring belief that Hillary Clinton is plotting to take them away.
+url: http://www.nytimes.com/2016/11/05/us/a-militia-gets-battle-ready-for-a-gun-grabbing-clinton-presidency.html
+
+title: Chelsea Manning Tried Committing Suicide a Second Time in October
+abstract: Ms. Manning says she tried to commit suicide at the start of a week of solitary confinement she was serving as punishment for a previous attempt to end her own life.
+url: http://www.nytimes.com/2016/11/05/us/chelsea-manning-tried-committing-suicide-a-second-time-in-october.html
+
+title: Hillary Clinton’s Moments and Missteps: A Look Back
+abstract: It has been a long road for the former first lady, senator and secretary of state since she announced her presidential bid more than a year and a half ago.
+url: http://www.nytimes.com/2016/11/04/us/politics/hillary-clinton-presidential-race.html
